@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShawnCho2000
-- 👀 I’m currently looking for an SWE internship!
+- 👀 I’m currently looking for an SWE internship for fall 2022!
 - 🌱 I’m currently learning how to design algorithms and how the network works!
 - 💞️ I’m looking to collaborate on new and fun projects!
 - 📫 You can contact me at sycho00[at]cs.washington.edu
